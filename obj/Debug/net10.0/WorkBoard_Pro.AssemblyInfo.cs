@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkBoard_Pro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+696f572d1071f8b6fced866d769dcc46a5857f00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab1f92e0a20d8650a8bb1156bf09894963cd755")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkBoard_Pro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkBoard_Pro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

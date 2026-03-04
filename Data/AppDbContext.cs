@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WorkBoard_Pro.Models;
 
+
 namespace WorkBoard_Pro.Data
 {
     public class AppDbContext : DbContext
